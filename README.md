@@ -135,7 +135,6 @@ Hrules 负责的是规则识别、场景归类和出口选择。它不能保证�
 
 | 名称 | 主要特点 | 链接 |
 | --- | --- | --- |
-| **九云机场** | 价格实惠、性价比较高，适合需要机场订阅和多节点日常代理的用户。 | [注册 / 购买](https://888.jiuyundl.com/#/register?code=ONhkcjrm) |
 | **搬瓦工 VPS — DC9** | **CN2 GIA + CMIN2 + 联通 Premium**，面向中国大陆方向提供多运营商优质线路；当前推荐套餐 **$49.99 / 季度**。 | [购买 DC9](https://bwh81.net/aff.php?aff=82473&a=add&pid=87&billingcycle=quarterly&configoption%5B17%5D=55) |
 | **DMIT** | **CN2 GIA 顶级线路，国内访问速度一流**。 | [访问 DMIT](https://www.dmit.io/aff.php?aff=20932) |
 | **Proxy-Seller ISP** | 静态住宅代理 ISP，价格约 **$3 / 月起**；优惠码 **HCLOUD15**。 | [购买 ISP](https://proxy-seller.com/?partner=8Y51DM71OGR26N) |
